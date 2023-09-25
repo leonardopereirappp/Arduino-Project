@@ -1,4 +1,4 @@
-<h1> IoT-Project </h1>
+<h1> Arduino-Project </h1>
 <hr>
 <h2> It's a traffic light made by arduíno, made using TinkerCad </h2>
 <ul>
